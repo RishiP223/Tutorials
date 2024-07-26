@@ -7,3 +7,5 @@ Steps to push a commit on remote
 4. git push -u origin master. Enter the username and password afterwards.
 
 Dummy changes
+
+New changes

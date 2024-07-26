@@ -6,3 +6,4 @@ Steps to push a commit on remote
 	git config --global user.email "parikhrishi2307@gmail.com"
 4. git push -u origin master. Enter the username and password afterwards.
 
+Dummy changes

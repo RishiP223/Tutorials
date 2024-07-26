@@ -1,0 +1,8 @@
+Steps to push a commit on remote
+1. Create a GitHub account
+2. Create an empty repo on GitHub
+3. Create a folder on local system. Run the following commands
+	git config --global user.name "Rishi"
+	git config --global user.email "parikhrishi2307@gmail.com"
+4. git push -u origin master. Enter the username and password afterwards.
+

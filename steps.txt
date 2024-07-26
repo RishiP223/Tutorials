@@ -9,3 +9,5 @@ Steps to push a commit on remote
 Dummy changes
 
 New changes
+
+Added new changes
